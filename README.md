@@ -1,10 +1,9 @@
 # consumer-notif-app
 
 Consome o evento `mensalidade.gerada` e dispara a notificação push no
-aplicativo do Colégio Leal.
+aplicativo da Faculdade Leal.
 
-Parte do case [`colegio-leal`](https://github.com/lealnetosena/colegio-leal)
-(link a atualizar quando publicado).
+Parte do case [`faculdade-leal`](https://github.com/lealnetosena/faculdade-leal).
 
 ## Status
 Ainda não implementado — próxima etapa do case.
